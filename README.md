@@ -4,7 +4,7 @@ Change "page" without reloading site
 
 ---
 
-[*index.html*](https://github.com/magarenzo/change-page/blob/master/index.html) provides a template to see how [*changePage.js*](https://github.com/magarenzo/change-page/blob/master/changePage.js) works
+[*template.html*](https://github.com/magarenzo/change-page/blob/master/template.html) provides a template to see how [*changePage.js*](https://github.com/magarenzo/change-page/blob/master/changePage.js) works
 
 ## How it works
 
