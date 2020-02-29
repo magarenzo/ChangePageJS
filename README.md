@@ -2,7 +2,9 @@
 
 Change "page" without reloading site
 
+<kbd>
 ![GIF of changePage.js in action](changePage.gif)
+</kbd>
 
 [*template.html*](https://github.com/magarenzo/change-page/blob/master/template.html) provides a template to see how [*changePage.js*](https://github.com/magarenzo/change-page/blob/master/changePage.js) works
 
