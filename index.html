@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title>Template</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no, minimum-scale=1, maximum-scale=1" />
+    </head>
+
+    <body>
+        <div id="menu">
+            <p><a id="about-link" class="page" onclick="changePage(event, 'about');">About Me</a></p>
+            <p><a id="skills-link" class="page" onclick="changePage(event, 'skills');">Skills</a></p>
+            <p><a id="projets-link" class="page" onclick="changePage(event, 'projects');">Projects</a></p>
+        </div>
+
+
+        <div id="about" class="section">
+            <h1>About Me</h1>
+            <p>I like to code</p>
+        </div>
+
+        <div id="skills" class="section">
+            <h1>Skills</h1>
+            <p>JavaScript, HTML</p>
+        </div>
+
+        <div id="projects" class="section">
+            <h1>Projects</h1>
+            <p>This one, duh</p>
+        </div>
+
+        <script src="changePage.js"></script>
+    </body>
+</html>
+
+<style>
+    a { color: blue; }
+    .section { display: none; }
+    #about { display: block; }
+</style>
