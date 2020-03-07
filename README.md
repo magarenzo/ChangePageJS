@@ -1,6 +1,6 @@
 # changePage.js
 
-Change "page" without reloading site
+Change page without reloading site
 
 ![GIF of changePage.js in action](changePage.gif)
 
@@ -8,13 +8,13 @@ Change "page" without reloading site
 
 ## How it works
 
-Use *onclick* event of *a* element to pass in *id* of *div* we want to display
+Use `onclick` event of `a` element to pass in `id` of `div` we want to display
 
 ```html
 <a onclick="changePage(event, 'skills');">Skills</a>
 ```
 
-*div* being passed to *changePage.js* needs to have *class="section"*
+`div` being passed to `changePage.js` needs to have `class="section"`
 
 ```html
 <div id="skills" class="section"></div>
@@ -29,7 +29,7 @@ Sections we don't want displayed before clicking its corresponding link to show 
 
 ## Created with
 
-* [`JavaScript`](https://www.javascript.com/)
+* [JavaScript](https://www.javascript.com/)
 
 ## Owner
 
