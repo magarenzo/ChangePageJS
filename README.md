@@ -20,7 +20,7 @@ Use `onclick` event of `a` element to pass in `id` of `div` we want to display
 <div id="skills" class="section"></div>
 ```
 
-Sections we don't want displayed before clicking its corresponding link to show it should start with *display: none;* and we should display the first section we want showing, if any
+Sections we don't want displayed before clicking its corresponding link to show it should start with `display: none;` and we should display the first section we want showing, if any
 
 ```css
 .section { display: none; }
