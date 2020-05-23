@@ -8,13 +8,13 @@ Change page without reloading site
 
 ## Usage
 
-Use `onclick` event of `a` element to pass in `id` of `div` we want to display
+Use `onclick` event of `a` element to pass in `id` of `<div>` we want to display
 
 ```html
 <a onclick="changePage(event, 'skills');">Skills</a>
 ```
 
-`div` being passed to `ChangePageJS` needs to have `class="section"`
+`<div>` being passed to `ChangePageJS` needs to have `class="section"`
 
 ```html
 <div id="skills" class="section"></div>
