@@ -27,9 +27,9 @@ Sections we don't want displayed before clicking its corresponding link to show 
 #about { display: block; }
 ```
 
-## Dependencies
+## Dependency
 
-* [JavaScript](https://www.javascript.com/)
+[JavaScript](https://www.javascript.com/)
 
 ## Owner
 
