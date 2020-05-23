@@ -4,7 +4,7 @@ Change page without reloading site
 
 ![GIF of ChangePageJS in action](/media/ChangePageJS.gif)
 
-[*/demo/index.html*](https://github.com/magarenzo/change-page/blob/master/demo/index.html) provides a template to see how [*ChangePageJS*](https://github.com/magarenzo/ChangePageJS/blob/master/demo/changePage.js) works
+[*/demo/index.html*](https://github.com/magarenzo/change-page/blob/master/demo/index.html) provides a template to see how [*ChangePageJS*](https://github.com/magarenzo/ChangePageJS/blob/master/src/changePage.js) works
 
 ## Usage
 
