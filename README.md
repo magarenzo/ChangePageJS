@@ -1,12 +1,12 @@
-# changePage.js &#128195;
+# ChangePageJS &#128195;
 
 Change page without reloading site
 
-![GIF of changePage.js in action](changePage.gif)
+![GIF of ChangePageJS in action](/media/ChangePageJS.gif)
 
-[*index.html*](https://github.com/magarenzo/change-page/blob/master/index.html) provides a template to see how [*changePage.js*](https://github.com/magarenzo/change-page/blob/master/changePage.js) works
+[*/demo/index.html*](https://github.com/magarenzo/change-page/blob/master/demo/index.html) provides a template to see how [*ChangePageJS*](https://github.com/magarenzo/ChangePageJS/blob/master/demo/changePage.js) works
 
-## How it works
+## Usage
 
 Use `onclick` event of `a` element to pass in `id` of `div` we want to display
 
@@ -14,7 +14,7 @@ Use `onclick` event of `a` element to pass in `id` of `div` we want to display
 <a onclick="changePage(event, 'skills');">Skills</a>
 ```
 
-`div` being passed to `changePage.js` needs to have `class="section"`
+`div` being passed to `ChangePageJS` needs to have `class="section"`
 
 ```html
 <div id="skills" class="section"></div>
@@ -27,7 +27,7 @@ Sections we don't want displayed before clicking its corresponding link to show 
 #about { display: block; }
 ```
 
-## Created with
+## Dependencies
 
 * [JavaScript](https://www.javascript.com/)
 
