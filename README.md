@@ -4,8 +4,6 @@ Change page without reloading site
 
 ![GIF of ChangePageJS in action](/media/ChangePageJS.gif)
 
-[*/demo/index.html*](https://github.com/magarenzo/change-page/blob/master/demo/index.html) provides a template to see how [*ChangePageJS*](https://github.com/magarenzo/ChangePageJS/blob/master/src/changePage.js) works
-
 ## Usage
 
 Use `onclick` event of `a` element to pass in `id` of `<div>` we want to display
