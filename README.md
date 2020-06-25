@@ -4,6 +4,10 @@ Change page without reloading site
 
 ![GIF of ChangePageJS in action](/media/ChangePageJS.gif)
 
+## Demo
+
+https://magarenzo.com/projects/ChangePageJS/
+
 ## Usage
 
 Use `onclick` event of `a` element to pass in `id` of `<div>` we want to display
