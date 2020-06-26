@@ -36,5 +36,3 @@ Sections we don't want displayed before clicking its corresponding link to show 
 ## Owner
 
 Michael A. Agarenzo
-
-[&#127867; Buy me a cider, or three!](https://www.buymeacoffee.com/magarenzo)
