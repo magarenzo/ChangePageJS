@@ -29,7 +29,7 @@ Sections we don't want displayed before clicking its corresponding link to show 
 #about { display: block; }
 ```
 
-## Known Public Usage
+## Used By
 
 [magarenzo.com](https://magarenzo.com)
 
@@ -37,4 +37,4 @@ Sections we don't want displayed before clicking its corresponding link to show 
 
 Michael A. Agarenzo
 
-<a href="https://www.buymeacoffee.com/magarenzo" target="_blank"><img src="https://magarenzo.com/images/icon-buy-me-a-coffee.webp" alt="Buy Me A Coffee" width="200" height="50"></a>
+[&#127867; Buy me a cider, or three!](https://www.buymeacoffee.com/magarenzo)
