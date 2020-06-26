@@ -6,7 +6,7 @@ Change page without reloading site
 
 ## Demo
 
-https://magarenzo.com/projects/ChangePageJS/
+[magarenzo.com/projects/ChangePageJS/](https://magarenzo.com/projects/ChangePageJS/)
 
 ## Usage
 
