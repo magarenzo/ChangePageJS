@@ -4,7 +4,7 @@ Change page without reloading site
 
 ![GIF of ChangePageJS in action](/media/ChangePageJS.gif)
 
-## Usage
+## Using the Script
 
 Use `onclick` event of `a` element to pass in `id` of `<div>` we want to display
 
@@ -31,4 +31,4 @@ Sections we don't want displayed before clicking its corresponding link to show 
 
 ## Owner
 
-Michael A. Agarenzo
+[Michael A. Agarenzo](https://magarenzo.com)
