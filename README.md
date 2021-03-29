@@ -25,10 +25,6 @@ Sections we don't want displayed before clicking its corresponding link to show 
 #about { display: block; }
 ```
 
-## Used By
-
-[magarenzo.com](https://magarenzo.com)
-
 ## Owner
 
-[Michael A. Agarenzo](https://magarenzo.com)
+[Michael A.](https://linkedin.com/in/magarenzo)
