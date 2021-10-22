@@ -27,4 +27,4 @@ Sections we don't want displayed before clicking its corresponding link to show 
 
 ## Owner
 
-[Michael A.](https://linkedin.com/in/magarenzo)
+[Michael Agarenzo](https://linkedin.com/in/magarenzo)
